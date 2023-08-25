@@ -1,5 +1,6 @@
 #install on server: python-venv-pip-selenium-webdriver_manager-bs4-telethon-pytz-datetime & google chrome
 #settings: duration, interval, sleep, telegram channels, headless 
+#no longer supported
 
 
 #-1001838385325 whmw_test
